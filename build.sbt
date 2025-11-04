@@ -1,9 +1,9 @@
 import Tests._
 
 val chisel6Version = "6.7.0"
-val chisel7Version = "7.0.0-RC4"
+val chisel7Version = "7.3.0"
 val chiselTestVersion = "6.0.0"
-val scalaVersionFromChisel = "2.13.16"
+val scalaVersionFromChisel = "2.13.17"
 
 val chisel3Version = "3.6.1"
 
