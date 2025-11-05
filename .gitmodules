@@ -12,7 +12,7 @@
 	url = https://github.com/ucb-bar/caliptra-aes-acc.git
 [submodule "generators/constellation"]
 	path = generators/constellation
-	url = https://github.com/ucb-bar/constellation.git
+	url = https://github.com/Aurora7913/constellation.git
 [submodule "generators/cva6"]
 	path = generators/cva6
 	url = https://github.com/ucb-bar/cva6-wrapper.git
